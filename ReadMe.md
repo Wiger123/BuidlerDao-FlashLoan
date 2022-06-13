@@ -12,7 +12,7 @@
 1. 闪电贷源码: https://github.com/Wiger123/BuidlerDao-FlashLoan
 2. 经典攻击复现: https://github.com/Rivaill/CryptoVulhub
 3. 闪电贷套利: https://github.com/paco0x/amm-arbitrageur
-4. Uniswap 学习资料
+4. Uniswap 闪电贷: https://medium.com/uv-labs/flash-swap-5bcdbd9aaa14
 
 ## Basic Demo
 1. PPT 讲解
