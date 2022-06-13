@@ -1,6 +1,6 @@
 # Buidler DAO 系列课程: 闪电贷基础
-- 主讲人: Wiger
-- 代码编写: Soth
+- 主讲人: Wiger https://twitter.com/JizhouW
+- 代码编写: Soth https://twitter.com/Soth76267980
 - 教研助理: 菠菜菠菜!
 - 助教: Niel
 
